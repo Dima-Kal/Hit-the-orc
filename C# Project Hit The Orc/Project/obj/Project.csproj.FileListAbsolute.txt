@@ -1,0 +1,60 @@
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Release\Project.exe
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Release\Project.pdb
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\bin\Release\Project.exe
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\bin\Release\Project.pdb
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Release\Project.Form1.resources
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\Dima\Documents\Visual Studio 2005\Projects\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+E:\Project\Project\obj\Release\Project.exe
+E:\Project\Project\obj\Release\Project.pdb
+E:\Project\Project\bin\Release\Project.exe
+E:\Project\Project\bin\Release\Project.pdb
+E:\Project\Project\obj\Release\ResolveAssemblyReference.cache
+E:\Project\Project\obj\Release\Project.Form1.resources
+E:\Project\Project\obj\Release\Project.Properties.Resources.resources
+E:\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+I:\Project\Project\obj\Release\Project.exe
+I:\Project\Project\obj\Release\Project.pdb
+I:\Project\Project\obj\Debug\ResolveAssemblyReference.cache
+I:\Project\Project\obj\Debug\Project.Form1.resources
+I:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+I:\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+I:\Project\Project\obj\Debug\Project.exe
+I:\Project\Project\bin\Release\Project.exe
+I:\Project\Project\bin\Release\Project.pdb
+I:\Project\Project\obj\Release\ResolveAssemblyReference.cache
+I:\Project\Project\obj\Release\Project.Form1.resources
+I:\Project\Project\obj\Release\Project.Properties.Resources.resources
+I:\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+I:\Project\Project\bin\Debug\Project.exe
+I:\Project\Project\bin\Debug\Project.pdb
+I:\Project\Project\obj\Debug\Project.pdb
+F:\Project\Project\obj\Release\Project.exe
+F:\Project\Project\obj\Release\Project.pdb
+F:\Project\Project\bin\Release\Project.exe
+F:\Project\Project\bin\Release\Project.pdb
+F:\Project\Project\obj\Release\ResolveAssemblyReference.cache
+F:\Project\Project\obj\Release\Project.Form1.resources
+F:\Project\Project\obj\Release\Project.Properties.Resources.resources
+F:\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+F:\Dima Kalinichenko\Project\obj\Release\Project.exe
+F:\Dima Kalinichenko\Project\obj\Release\Project.pdb
+F:\Dima Kalinichenko\Project\obj\Release\ResolveAssemblyReference.cache
+F:\Dima Kalinichenko\Project\obj\Release\Project.Form1.resources
+F:\Dima Kalinichenko\Project\obj\Release\Project.Properties.Resources.resources
+F:\Dima Kalinichenko\Project\obj\Release\Project.csproj.GenerateResource.Cache
+G:\Project\Project\obj\Release\Project.exe
+G:\Project\Project\obj\Release\Project.pdb
+G:\Project\Project\obj\Release\ResolveAssemblyReference.cache
+G:\Project\Project\obj\Release\Project.Form1.resources
+G:\Project\Project\obj\Release\Project.Properties.Resources.resources
+G:\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
